@@ -5,7 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=theflamebe.theflamebe&"  />
 </div>
 
 ###
@@ -56,7 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/theflamebe/theflamebe/output/snake.svg" alt="Snake animation" />
 
 ###
 
