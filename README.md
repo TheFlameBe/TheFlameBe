@@ -8,9 +8,11 @@
 </div>
 
 ###
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=TheFlameBe)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=TheFlameBe&theme=dark)](https://github.com/FajarKim/github-readme-profile)
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=theflamebe&theme=dark&hide_border=true&locale=de&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theflamebe&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
